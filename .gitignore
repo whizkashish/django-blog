@@ -3,3 +3,4 @@ uploads/*
 .ebextensions
 django_my_site
 .env
+db.sqlite3
