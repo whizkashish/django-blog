@@ -2,3 +2,4 @@ uploads/*
 .vscode
 .ebextensions
 django_my_site
+.env
